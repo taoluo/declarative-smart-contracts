@@ -1,0 +1,18 @@
+[
+    [
+        "owner",
+        "totalIn"
+    ],
+    [
+        "owner",
+        "totalOut"
+    ],
+    [
+        "balanceOf",
+        "owner"
+    ],
+    [
+        "owner",
+        "transfer"
+    ]
+]

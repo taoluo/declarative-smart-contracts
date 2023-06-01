@@ -1,0 +1,34 @@
+[
+    [
+        "balanceOfByPartition",
+        "owner"
+    ],
+    [
+        "owner",
+        "totalBurn"
+    ],
+    [
+        "owner",
+        "transferByPartition"
+    ],
+    [
+        "owner",
+        "totalIn"
+    ],
+    [
+        "issueByPartition",
+        "owner"
+    ],
+    [
+        "owner",
+        "totalOut"
+    ],
+    [
+        "owner",
+        "redeemByPartition"
+    ],
+    [
+        "owner",
+        "totalMint"
+    ]
+]

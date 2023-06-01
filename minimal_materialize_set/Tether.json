@@ -1,0 +1,14 @@
+[
+    [
+        "isBlackListed",
+        "maxFee",
+        "owner",
+        "rate"
+    ],
+    [
+        "addBlackList",
+        "maxFee",
+        "owner",
+        "rate"
+    ]
+]

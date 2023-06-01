@@ -1,0 +1,26 @@
+[
+    [
+        "isVoter",
+        "voted",
+        "wins"
+    ],
+    [
+        "isVoter",
+        "quorumSize",
+        "voted"
+    ],
+    [
+        "hasWinner",
+        "isVoter",
+        "voted"
+    ],
+    [
+        "isVoter",
+        "vote"
+    ],
+    [
+        "isVoter",
+        "voted",
+        "votes"
+    ]
+]

@@ -1,0 +1,18 @@
+[
+    [
+        "isApprovedForAll",
+        "owner",
+        "transfer"
+    ],
+    [
+        "isApprovedForAll",
+        "latestTransfer",
+        "owner"
+    ],
+    [
+        "exists",
+        "isApprovedForAll",
+        "owner",
+        "ownerOf"
+    ]
+]
