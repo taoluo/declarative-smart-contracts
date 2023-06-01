@@ -1,282 +1,38 @@
 [
     [
-        "allowanceTotal",
+        "allowance",
         "balanceOf",
         "isPauser",
         "owner",
         "paused"
     ],
     [
-        "increaseAllowance",
+        "allowanceTotal",
         "isPauser",
         "owner",
         "paused",
-        "totalMint"
-    ],
-    [
-        "isPauser",
-        "owner",
-        "paused",
+        "spentTotal",
+        "totalBurn",
         "totalIn",
-        "transferFrom"
-    ],
-    [
-        "allowance",
-        "isPauser",
-        "owner",
-        "paused",
-        "totalBurn"
-    ],
-    [
-        "allowanceTotal",
-        "isPauser",
-        "owner",
-        "paused",
-        "totalMint"
-    ],
-    [
-        "isPauser",
-        "owner",
-        "paused",
-        "spentTotal",
-        "totalBurn"
-    ],
-    [
-        "balanceOf",
-        "increaseAllowance",
-        "isPauser",
-        "owner",
-        "paused"
-    ],
-    [
-        "burn",
-        "isPauser",
-        "owner",
-        "paused",
-        "transferFrom"
-    ],
-    [
-        "allowanceTotal",
-        "burn",
-        "isPauser",
-        "owner",
-        "paused"
-    ],
-    [
-        "balanceOf",
-        "isPauser",
-        "owner",
-        "paused",
-        "spentTotal"
-    ],
-    [
-        "increaseAllowance",
-        "isPauser",
-        "owner",
-        "paused",
-        "totalBurn"
-    ],
-    [
-        "allowance",
-        "isPauser",
-        "mint",
-        "owner",
-        "paused"
-    ],
-    [
-        "isPauser",
-        "owner",
-        "paused",
         "totalMint",
-        "transferFrom"
-    ],
-    [
-        "allowanceTotal",
-        "isPauser",
-        "owner",
-        "paused",
-        "totalBurn"
-    ],
-    [
-        "isPauser",
-        "owner",
-        "paused",
-        "spentTotal",
-        "transfer"
-    ],
-    [
-        "isPauser",
-        "mint",
-        "owner",
-        "paused",
-        "spentTotal"
+        "totalOut"
     ],
     [
         "allowance",
-        "isPauser",
-        "owner",
-        "paused",
-        "transfer"
-    ],
-    [
-        "increaseAllowance",
-        "isPauser",
-        "mint",
-        "owner",
-        "paused"
-    ],
-    [
-        "allowanceTotal",
-        "isPauser",
-        "mint",
-        "owner",
-        "paused"
-    ],
-    [
         "isPauser",
         "owner",
         "paused",
         "totalBurn",
-        "transferFrom"
-    ],
-    [
-        "increaseAllowance",
-        "isPauser",
-        "owner",
-        "paused",
-        "transfer"
+        "totalIn",
+        "totalMint",
+        "totalOut"
     ],
     [
         "allowanceTotal",
-        "isPauser",
-        "owner",
-        "paused",
-        "transfer"
-    ],
-    [
-        "allowance",
-        "burn",
-        "isPauser",
-        "owner",
-        "paused"
-    ],
-    [
-        "allowance",
         "balanceOf",
-        "isPauser",
-        "owner",
-        "paused"
-    ],
-    [
-        "burn",
         "isPauser",
         "owner",
         "paused",
         "spentTotal"
-    ],
-    [
-        "isPauser",
-        "owner",
-        "paused",
-        "totalOut",
-        "transferFrom"
-    ],
-    [
-        "allowance",
-        "isPauser",
-        "owner",
-        "paused",
-        "totalOut"
-    ],
-    [
-        "balanceOf",
-        "isPauser",
-        "owner",
-        "paused",
-        "transferFrom"
-    ],
-    [
-        "isPauser",
-        "owner",
-        "paused",
-        "spentTotal",
-        "totalOut"
-    ],
-    [
-        "isPauser",
-        "owner",
-        "paused",
-        "spentTotal",
-        "totalIn"
-    ],
-    [
-        "allowance",
-        "isPauser",
-        "owner",
-        "paused",
-        "totalIn"
-    ],
-    [
-        "allowanceTotal",
-        "isPauser",
-        "owner",
-        "paused",
-        "totalOut"
-    ],
-    [
-        "increaseAllowance",
-        "isPauser",
-        "owner",
-        "paused",
-        "totalOut"
-    ],
-    [
-        "isPauser",
-        "owner",
-        "paused",
-        "transfer",
-        "transferFrom"
-    ],
-    [
-        "isPauser",
-        "mint",
-        "owner",
-        "paused",
-        "transferFrom"
-    ],
-    [
-        "increaseAllowance",
-        "isPauser",
-        "owner",
-        "paused",
-        "totalIn"
-    ],
-    [
-        "allowanceTotal",
-        "isPauser",
-        "owner",
-        "paused",
-        "totalIn"
-    ],
-    [
-        "isPauser",
-        "owner",
-        "paused",
-        "spentTotal",
-        "totalMint"
-    ],
-    [
-        "burn",
-        "increaseAllowance",
-        "isPauser",
-        "owner",
-        "paused"
-    ],
-    [
-        "allowance",
-        "isPauser",
-        "owner",
-        "paused",
-        "totalMint"
     ]
 ]

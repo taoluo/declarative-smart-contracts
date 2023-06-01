@@ -1,16 +1,14 @@
 [
     [
-        "release",
-        "shares"
+        "released",
+        "shares",
+        "totalReleased",
+        "totalShares"
     ],
     [
         "released",
         "shares",
-        "totalReceived"
-    ],
-    [
-        "released",
-        "shares",
-        "totalReleased"
+        "totalReceived",
+        "totalShares"
     ]
 ]

@@ -1,127 +1,70 @@
 [
     [
-        "allowance",
-        "freezeOf",
-        "owner"
-    ],
-    [
-        "freezeOf",
+        "allowanceTotal",
+        "balanceOf",
         "owner",
-        "spentTotal"
-    ],
-    [
-        "freezeOf",
-        "owner",
-        "transferFrom"
-    ],
-    [
-        "allowance",
-        "owner",
+        "spentTotal",
+        "totalFreeze",
         "totalUnfreeze"
     ],
     [
-        "allowanceTotal",
-        "owner",
-        "totalFreeze"
-    ],
-    [
-        "allowanceTotal",
-        "owner",
-        "unfreeze"
-    ],
-    [
-        "owner",
-        "spentTotal",
-        "totalFreeze"
-    ],
-    [
-        "owner",
-        "totalUnfreeze",
-        "transferFrom"
-    ],
-    [
-        "owner",
-        "spentTotal",
-        "unfreeze"
-    ],
-    [
         "allowance",
-        "freeze",
-        "owner"
-    ],
-    [
-        "freeze",
-        "owner",
-        "spentTotal"
-    ],
-    [
-        "freeze",
-        "increaseAllowance",
-        "owner"
-    ],
-    [
-        "allowanceTotal",
+        "balanceOf",
         "freezeOf",
         "owner"
     ],
     [
-        "increaseAllowance",
+        "allowanceTotal",
         "owner",
-        "totalFreeze"
+        "spentTotal",
+        "totalBurn",
+        "totalFreeze",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "totalUnfreeze"
     ],
     [
-        "freeze",
+        "allowance",
         "owner",
-        "transferFrom"
+        "totalBurn",
+        "totalFreeze",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "totalUnfreeze"
     ],
     [
-        "increaseAllowance",
-        "owner",
-        "unfreeze"
-    ],
-    [
+        "allowance",
+        "balanceOf",
         "owner",
         "totalFreeze",
-        "transferFrom"
+        "totalUnfreeze"
     ],
     [
+        "allowance",
+        "freezeOf",
+        "owner",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut"
+    ],
+    [
+        "allowanceTotal",
+        "freezeOf",
         "owner",
         "spentTotal",
-        "totalUnfreeze"
-    ],
-    [
-        "owner",
-        "transferFrom",
-        "unfreeze"
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut"
     ],
     [
         "allowanceTotal",
-        "owner",
-        "totalUnfreeze"
-    ],
-    [
+        "balanceOf",
         "freezeOf",
-        "increaseAllowance",
-        "owner"
-    ],
-    [
-        "allowanceTotal",
-        "freeze",
-        "owner"
-    ],
-    [
-        "allowance",
         "owner",
-        "totalFreeze"
-    ],
-    [
-        "increaseAllowance",
-        "owner",
-        "totalUnfreeze"
-    ],
-    [
-        "allowance",
-        "owner",
-        "unfreeze"
+        "spentTotal"
     ]
 ]

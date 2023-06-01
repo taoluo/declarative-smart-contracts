@@ -1,13 +1,19 @@
 [
     [
         "isVoter",
+        "quorumSize",
         "voted",
-        "wins"
+        "votes"
+    ],
+    [
+        "hasWinner",
+        "isVoter",
+        "vote"
     ],
     [
         "isVoter",
-        "quorumSize",
-        "voted"
+        "voted",
+        "wins"
     ],
     [
         "hasWinner",
@@ -16,11 +22,13 @@
     ],
     [
         "isVoter",
-        "vote"
+        "vote",
+        "wins"
     ],
     [
         "isVoter",
-        "voted",
+        "quorumSize",
+        "vote",
         "votes"
     ]
 ]

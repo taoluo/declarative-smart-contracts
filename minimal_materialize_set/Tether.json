@@ -1,14 +1,82 @@
 [
     [
+        "allowanceTotal",
+        "isBlackListed",
+        "maxFee",
+        "owner",
+        "rate",
+        "spentTotal",
+        "totalIn",
+        "totalIssue",
+        "totalOut",
+        "totalRedeem"
+    ],
+    [
+        "addBlackList",
+        "allowance",
+        "maxFee",
+        "owner",
+        "rate",
+        "totalIn",
+        "totalIssue",
+        "totalOut",
+        "totalRedeem"
+    ],
+    [
+        "allowance",
+        "balanceOf",
         "isBlackListed",
         "maxFee",
         "owner",
         "rate"
     ],
     [
+        "allowanceTotal",
+        "balanceOf",
+        "isBlackListed",
+        "maxFee",
+        "owner",
+        "rate",
+        "spentTotal"
+    ],
+    [
         "addBlackList",
+        "allowance",
+        "balanceOf",
         "maxFee",
         "owner",
         "rate"
+    ],
+    [
+        "allowance",
+        "isBlackListed",
+        "maxFee",
+        "owner",
+        "rate",
+        "totalIn",
+        "totalIssue",
+        "totalOut",
+        "totalRedeem"
+    ],
+    [
+        "addBlackList",
+        "allowanceTotal",
+        "balanceOf",
+        "maxFee",
+        "owner",
+        "rate",
+        "spentTotal"
+    ],
+    [
+        "addBlackList",
+        "allowanceTotal",
+        "maxFee",
+        "owner",
+        "rate",
+        "spentTotal",
+        "totalIn",
+        "totalIssue",
+        "totalOut",
+        "totalRedeem"
     ]
 ]
