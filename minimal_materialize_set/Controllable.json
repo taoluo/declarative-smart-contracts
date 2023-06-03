@@ -1,25 +1,10 @@
 [
     [
-        "allowance",
-        "controller",
-        "owner",
-        "totalBurn",
-        "totalIn",
-        "totalMint",
-        "totalOut"
-    ],
-    [
         "allowanceTotal",
         "balanceOf",
         "controller",
         "owner",
         "spentTotal"
-    ],
-    [
-        "allowance",
-        "balanceOf",
-        "controller",
-        "owner"
     ],
     [
         "allowanceTotal",
@@ -30,5 +15,20 @@
         "totalIn",
         "totalMint",
         "totalOut"
+    ],
+    [
+        "allowance",
+        "controller",
+        "owner",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut"
+    ],
+    [
+        "allowance",
+        "balanceOf",
+        "controller",
+        "owner"
     ]
 ]

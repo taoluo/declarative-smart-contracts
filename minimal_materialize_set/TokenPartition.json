@@ -1,6 +1,45 @@
 [
     [
+        "allBurn",
+        "allMint",
+        "balanceOfByPartition",
         "owner",
+        "totalSupplyByPartition"
+    ],
+    [
+        "allBurn",
+        "allMint",
+        "balanceOfByPartition",
+        "issueTotalByPartition",
+        "owner",
+        "redeemTotalByPartition"
+    ],
+    [
+        "issueTotalByPartition",
+        "owner",
+        "redeemTotalByPartition",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "totalSupply"
+    ],
+    [
+        "allBurn",
+        "allMint",
+        "owner",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "totalSupplyByPartition"
+    ],
+    [
+        "allBurn",
+        "allMint",
+        "issueTotalByPartition",
+        "owner",
+        "redeemTotalByPartition",
         "totalBurn",
         "totalIn",
         "totalMint",
@@ -8,6 +47,24 @@
     ],
     [
         "balanceOfByPartition",
-        "owner"
+        "owner",
+        "totalSupply",
+        "totalSupplyByPartition"
+    ],
+    [
+        "owner",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "totalSupply",
+        "totalSupplyByPartition"
+    ],
+    [
+        "balanceOfByPartition",
+        "issueTotalByPartition",
+        "owner",
+        "redeemTotalByPartition",
+        "totalSupply"
     ]
 ]

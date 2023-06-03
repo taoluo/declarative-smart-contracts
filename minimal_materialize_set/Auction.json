@@ -1,5 +1,13 @@
 [
     [
+        "balance",
+        "beneficiary",
+        "end",
+        "endTime",
+        "highestBid",
+        "owner"
+    ],
+    [
         "beneficiary",
         "bidTotal",
         "end",
@@ -7,13 +15,5 @@
         "highestBid",
         "owner",
         "withdrawTotal"
-    ],
-    [
-        "balance",
-        "beneficiary",
-        "end",
-        "endTime",
-        "highestBid",
-        "owner"
     ]
 ]

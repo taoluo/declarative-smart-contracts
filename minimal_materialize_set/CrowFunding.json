@@ -1,19 +1,19 @@
 [
     [
-        "balanceOf",
-        "beneficiary",
-        "closed",
-        "owner",
-        "raised",
-        "target"
-    ],
-    [
         "beneficiary",
         "closed",
         "investTotal",
         "owner",
         "raised",
         "refundTotal",
+        "target"
+    ],
+    [
+        "balanceOf",
+        "beneficiary",
+        "closed",
+        "owner",
+        "raised",
         "target"
     ]
 ]

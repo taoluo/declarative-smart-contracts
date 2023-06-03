@@ -4,9 +4,12 @@
         "balanceOf",
         "owner",
         "spentTotal",
+        "totalSupply",
         "validRecipient"
     ],
     [
+        "allBurn",
+        "allMint",
         "allowance",
         "owner",
         "totalBurn",
@@ -16,6 +19,46 @@
         "validRecipient"
     ],
     [
+        "allBurn",
+        "allMint",
+        "allowanceTotal",
+        "balanceOf",
+        "owner",
+        "spentTotal",
+        "validRecipient"
+    ],
+    [
+        "allowance",
+        "owner",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "totalSupply",
+        "validRecipient"
+    ],
+    [
+        "allowance",
+        "balanceOf",
+        "owner",
+        "totalSupply",
+        "validRecipient"
+    ],
+    [
+        "allBurn",
+        "allMint",
+        "allowanceTotal",
+        "owner",
+        "spentTotal",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "validRecipient"
+    ],
+    [
+        "allBurn",
+        "allMint",
         "allowance",
         "balanceOf",
         "owner",
@@ -29,6 +72,7 @@
         "totalIn",
         "totalMint",
         "totalOut",
+        "totalSupply",
         "validRecipient"
     ]
 ]

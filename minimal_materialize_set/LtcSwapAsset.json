@@ -1,5 +1,37 @@
 [
     [
+        "allowance",
+        "swapOwner",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "totalSupply"
+    ],
+    [
+        "allBurn",
+        "allMint",
+        "allowance",
+        "effectiveTime",
+        "newOwner",
+        "oldOwner",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut"
+    ],
+    [
+        "allowance",
+        "owner",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "totalSupply"
+    ],
+    [
+        "allBurn",
+        "allMint",
         "allowanceTotal",
         "spentTotal",
         "swapOwner",
@@ -12,18 +44,41 @@
         "allowanceTotal",
         "balanceOf",
         "owner",
-        "spentTotal"
+        "spentTotal",
+        "totalSupply"
     ],
     [
+        "allowanceTotal",
+        "spentTotal",
+        "swapOwner",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "totalSupply"
+    ],
+    [
+        "allBurn",
+        "allMint",
+        "allowance",
+        "swapOwner",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut"
+    ],
+    [
+        "allBurn",
+        "allMint",
         "allowance",
         "balanceOf",
         "owner"
     ],
     [
+        "allBurn",
+        "allMint",
         "allowanceTotal",
-        "effectiveTime",
-        "newOwner",
-        "oldOwner",
+        "owner",
         "spentTotal",
         "totalBurn",
         "totalIn",
@@ -31,6 +86,23 @@
         "totalOut"
     ],
     [
+        "allowance",
+        "balanceOf",
+        "effectiveTime",
+        "newOwner",
+        "oldOwner",
+        "totalSupply"
+    ],
+    [
+        "allBurn",
+        "allMint",
+        "allowance",
+        "balanceOf",
+        "swapOwner"
+    ],
+    [
+        "allBurn",
+        "allMint",
         "allowance",
         "owner",
         "totalBurn",
@@ -40,30 +112,78 @@
     ],
     [
         "allowance",
-        "effectiveTime",
-        "newOwner",
-        "oldOwner",
-        "totalBurn",
-        "totalIn",
-        "totalMint",
-        "totalOut"
+        "balanceOf",
+        "swapOwner",
+        "totalSupply"
     ],
     [
-        "allowanceTotal",
+        "allowance",
+        "balanceOf",
         "owner",
-        "spentTotal",
-        "totalBurn",
-        "totalIn",
-        "totalMint",
-        "totalOut"
+        "totalSupply"
     ],
     [
         "allowanceTotal",
         "balanceOf",
         "spentTotal",
-        "swapOwner"
+        "swapOwner",
+        "totalSupply"
     ],
     [
+        "allowanceTotal",
+        "owner",
+        "spentTotal",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "totalSupply"
+    ],
+    [
+        "allBurn",
+        "allMint",
+        "allowanceTotal",
+        "balanceOf",
+        "effectiveTime",
+        "newOwner",
+        "oldOwner",
+        "spentTotal"
+    ],
+    [
+        "allBurn",
+        "allMint",
+        "allowanceTotal",
+        "effectiveTime",
+        "newOwner",
+        "oldOwner",
+        "spentTotal",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut"
+    ],
+    [
+        "allBurn",
+        "allMint",
+        "allowanceTotal",
+        "balanceOf",
+        "owner",
+        "spentTotal"
+    ],
+    [
+        "allowance",
+        "effectiveTime",
+        "newOwner",
+        "oldOwner",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "totalSupply"
+    ],
+    [
+        "allBurn",
+        "allMint",
         "allowance",
         "balanceOf",
         "effectiveTime",
@@ -71,24 +191,32 @@
         "oldOwner"
     ],
     [
-        "allowance",
-        "balanceOf",
-        "swapOwner"
-    ],
-    [
-        "allowance",
-        "swapOwner",
-        "totalBurn",
-        "totalIn",
-        "totalMint",
-        "totalOut"
-    ],
-    [
         "allowanceTotal",
         "balanceOf",
         "effectiveTime",
         "newOwner",
         "oldOwner",
-        "spentTotal"
+        "spentTotal",
+        "totalSupply"
+    ],
+    [
+        "allowanceTotal",
+        "effectiveTime",
+        "newOwner",
+        "oldOwner",
+        "spentTotal",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "totalSupply"
+    ],
+    [
+        "allBurn",
+        "allMint",
+        "allowanceTotal",
+        "balanceOf",
+        "spentTotal",
+        "swapOwner"
     ]
 ]

@@ -1,11 +1,26 @@
 [
     [
-        "balanceOf",
-        "owner"
+        "owner",
+        "totalIn",
+        "totalOut",
+        "totalSupply"
     ],
     [
+        "balanceOf",
+        "owner",
+        "totalSupply"
+    ],
+    [
+        "allBurn",
+        "allMint",
         "owner",
         "totalIn",
         "totalOut"
+    ],
+    [
+        "allBurn",
+        "allMint",
+        "balanceOf",
+        "owner"
     ]
 ]

@@ -1,28 +1,32 @@
 [
     [
-        "approval",
+        "approved",
+        "balanceOf",
         "isApprovedForAll",
         "latestTransfer",
         "owner"
     ],
     [
         "approved",
+        "balanceOf",
         "exists",
         "isApprovedForAll",
         "owner",
         "ownerOf"
-    ],
-    [
-        "approved",
-        "isApprovedForAll",
-        "latestTransfer",
-        "owner"
     ],
     [
         "approval",
+        "balanceOf",
         "exists",
         "isApprovedForAll",
         "owner",
         "ownerOf"
+    ],
+    [
+        "approval",
+        "balanceOf",
+        "isApprovedForAll",
+        "latestTransfer",
+        "owner"
     ]
 ]

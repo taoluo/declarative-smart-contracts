@@ -1,5 +1,7 @@
 [
     [
+        "allBurn",
+        "allMint",
         "allowance",
         "balanceOf",
         "isPauser",
@@ -7,6 +9,39 @@
         "paused"
     ],
     [
+        "allowance",
+        "balanceOf",
+        "isPauser",
+        "owner",
+        "paused",
+        "totalSupply"
+    ],
+    [
+        "allBurn",
+        "allMint",
+        "allowance",
+        "isPauser",
+        "owner",
+        "paused",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut"
+    ],
+    [
+        "allowance",
+        "isPauser",
+        "owner",
+        "paused",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "totalSupply"
+    ],
+    [
+        "allBurn",
+        "allMint",
         "allowanceTotal",
         "isPauser",
         "owner",
@@ -18,14 +53,26 @@
         "totalOut"
     ],
     [
-        "allowance",
+        "allBurn",
+        "allMint",
+        "allowanceTotal",
+        "balanceOf",
         "isPauser",
         "owner",
         "paused",
+        "spentTotal"
+    ],
+    [
+        "allowanceTotal",
+        "isPauser",
+        "owner",
+        "paused",
+        "spentTotal",
         "totalBurn",
         "totalIn",
         "totalMint",
-        "totalOut"
+        "totalOut",
+        "totalSupply"
     ],
     [
         "allowanceTotal",
@@ -33,6 +80,7 @@
         "isPauser",
         "owner",
         "paused",
-        "spentTotal"
+        "spentTotal",
+        "totalSupply"
     ]
 ]

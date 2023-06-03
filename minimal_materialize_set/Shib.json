@@ -1,5 +1,37 @@
 [
     [
+        "allowance",
+        "balanceOf",
+        "owner",
+        "totalSupply"
+    ],
+    [
+        "allowanceTotal",
+        "owner",
+        "spentTotal",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut",
+        "totalSupply"
+    ],
+    [
+        "allowanceTotal",
+        "balanceOf",
+        "owner",
+        "spentTotal",
+        "totalSupply"
+    ],
+    [
+        "allBurn",
+        "allMint",
+        "allowance",
+        "balanceOf",
+        "owner"
+    ],
+    [
+        "allBurn",
+        "allMint",
         "allowanceTotal",
         "owner",
         "spentTotal",
@@ -9,15 +41,22 @@
         "totalOut"
     ],
     [
+        "allBurn",
+        "allMint",
         "allowanceTotal",
         "balanceOf",
         "owner",
         "spentTotal"
     ],
     [
+        "allBurn",
+        "allMint",
         "allowance",
-        "balanceOf",
-        "owner"
+        "owner",
+        "totalBurn",
+        "totalIn",
+        "totalMint",
+        "totalOut"
     ],
     [
         "allowance",
@@ -25,6 +64,7 @@
         "totalBurn",
         "totalIn",
         "totalMint",
-        "totalOut"
+        "totalOut",
+        "totalSupply"
     ]
 ]
