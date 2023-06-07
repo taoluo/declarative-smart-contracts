@@ -1,0 +1,8 @@
+allBurn,allMint,allowanceTotal,owner,spentTotal,totalBurn,totalIn,totalMint,totalOut,validRecipient
+allBurn,allMint,allowanceTotal,balanceOf,owner,spentTotal,validRecipient,,,
+allowanceTotal,owner,spentTotal,totalBurn,totalIn,totalMint,totalOut,totalSupply,validRecipient,
+allowanceTotal,balanceOf,owner,spentTotal,totalSupply,validRecipient,,,,
+allowance,balanceOf,owner,totalSupply,validRecipient,,,,,
+allBurn,allMint,allowance,owner,totalBurn,totalIn,totalMint,totalOut,validRecipient,
+allowance,owner,totalBurn,totalIn,totalMint,totalOut,totalSupply,validRecipient,,
+allBurn,allMint,allowance,balanceOf,owner,validRecipient,,,,

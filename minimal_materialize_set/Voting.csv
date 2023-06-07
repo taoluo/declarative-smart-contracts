@@ -1,0 +1,4 @@
+isVoter,voted,votes,wins
+isVoter,quorumSize,vote,votes
+isVoter,vote,votes,wins
+isVoter,quorumSize,voted,votes
